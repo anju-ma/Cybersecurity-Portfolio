@@ -1,20 +1,12 @@
-Networking-Fundamentals
-│
-├── README.md
-│
-├── 01-Network-Basics
-│     ├── Notes.md
-│     ├── Diagram.png
-│
-├── 02-Network-Devices
-│     ├── Router.md
-│     ├── Switch.md
-│     ├── Hub.md
-│     ├── Firewall.md
-│
-├── 03-IP-Addressing
-│     ├── IPv4.md
-│     ├── IPv6.md
-│     ├── Public-vs-Private-IP.md
-│
-├── 04-Protocols
+# Network Protocols
+
+This section covers the common protocols used for communication in computer networks.
+
+## Topics
+
+- TCP
+- UDP
+- DNS
+- DHCP
+- ARP
+- ICMP
