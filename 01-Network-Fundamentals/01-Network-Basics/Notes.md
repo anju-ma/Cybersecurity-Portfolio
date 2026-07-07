@@ -135,8 +135,8 @@ In a home network, devices such as a laptop, smartphone, Smart TV, and printer a
                     │
               Wi-Fi Router
         ┌────────┼────────┬────────┐
-        │        │        │        │
-     Laptop   Phone   Smart TV  Printer
+        │         │          │         │
+     Laptop     Phone    Smart TV   Printer
 ```
 
 ---
