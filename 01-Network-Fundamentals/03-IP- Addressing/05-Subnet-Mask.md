@@ -80,7 +80,7 @@ If PC2 had the address 192.168.2.20, it would be on a different network and comm
 
 ---
 
-## Real-World Analogy
+## Real-World Example 
 
 Imagine a city.
 
