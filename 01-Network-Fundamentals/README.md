@@ -1,8 +1,8 @@
 # Networking Fundamentals
 
-This repository documents my self-learning journey in networking for SOC Analyst (L1) preparation.
+This repository contains my networking notes and hands-on labs as part of my learning journey.
 
-## Topics Covered
+## Topics
 
 - Network Basics
 - Network Devices
